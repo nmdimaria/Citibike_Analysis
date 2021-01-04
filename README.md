@@ -8,7 +8,7 @@ We were so enthralled by the Citibike service in New York City that we prepose t
 
 *Each point represents a slide my Tableau Story
 
-[link to tableau](https://public.tableau.com/profile/nmdimaria#!/vizhome/CitibikeProject_16097772633890/Citibike)
+[Link to Tableau](https://public.tableau.com/profile/nmdimaria#!/vizhome/CitibikeProject_16097772633890/Citibike)
 
 ### General Overview
   - This month alone saw over 2.3 million rides. Most (about 2 million) are from users who subscribe to the Citibike Service. This begins to show the immense popularity of Citibike among the residents of NYC. And, as you can see, people use Citibike throughout the day and even into the night.
@@ -28,4 +28,6 @@ We were so enthralled by the Citibike service in New York City that we prepose t
 
 ## Summary
 
-In conclusion 
+In conclusion we believe that a Citibike-like service would be very successful in Des Moines given its great success in NYC. A large number of New Yorkers use the service for work and for play while tourists have a quick and easy way to get from "A" to "B" or to use as their primary transportation throughout their stay.
+
+In a further analysis, it might be useful to include some demographic informaion about Des Moines like "walkability" and if age demographics match at all with NYC. I also did some further analysis in my presentation by breaking down ride length by customer type to see if subscribers/non-subscribers had different riding habits which, while the totals are quite disparate, turned out to be true.
